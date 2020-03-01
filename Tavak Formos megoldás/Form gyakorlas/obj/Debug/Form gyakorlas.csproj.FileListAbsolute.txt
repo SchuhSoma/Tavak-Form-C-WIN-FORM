@@ -1,0 +1,10 @@
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\bin\Debug\Form gyakorlas.exe.config
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\bin\Debug\Form gyakorlas.exe
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\bin\Debug\Form gyakorlas.pdb
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form gyakorlas.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form_gyakorlas.Form1.resources
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form_gyakorlas.Properties.Resources.resources
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form gyakorlas.csproj.GenerateResource.cache
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form gyakorlas.exe
+C:\Users\Soma\Documents\C#2\Form gyakorlas\Form gyakorlas\obj\Debug\Form gyakorlas.pdb
